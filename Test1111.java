@@ -16,18 +16,7 @@ public class Test1111 {
 		//random
 		//random
 		//random
-		//random//random
-		//random
-		//random
-		//random
-		//random
-		//random
-		//random
-		//randomv
-		//random
-		//random
-		//random
-		
+	
 		
 	}
 
